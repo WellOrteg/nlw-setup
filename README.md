@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 <p align="center">
-<img alt="projeto Habits" src=".assets/capa-habits.jpg" width="100%">
+<img alt="projeto Habits" src="./assets/capa-habits.jpg" width="100%">
