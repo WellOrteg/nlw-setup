@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-[Visite o projeto online] (https://WellOrteg.github.io/nlw-setup/]
+[Visite o projeto online] (https://WellOrteg.github.io/nlw-setup]
 
 <p align="center">
 <img alt="projeto Habits" src="./assets/capa-habits.jpg" width="100%">
